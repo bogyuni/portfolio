@@ -19,7 +19,6 @@ function App() {
 								<li key={idx}>
 									<a href={project.link} target='_blank' rel="noopener noreferrer">{project.title}</a>
 									<p>{project.description}</p>
-									<p><strong>Technologies:</strong> {project.technologies.join(', ')}</p>
 								</li>
 							))}
 						</ul>
