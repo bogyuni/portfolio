@@ -39,7 +39,7 @@ button{border:0;outline:0;background: none;cursor: pointer;}
 body{font:normal 14px/1 GothamMedium, sans-serif;background-color: #000;color: #fff;overflow-x: hidden;}
 
 header{position: fixed;width:100%;left:0;top:0;z-index: 11;}
-section{position: relative;border:1px solid red;}
+section{position: relative;}
 
 .obj{position: absolute;}
 .sc_obj{position: absolute;overflow: hidden;}
@@ -275,7 +275,6 @@ section{position: relative;border:1px solid red;}
  .temp_map{position: absolute;left:0;top:0;opacity: 0.4;width:100%;}
 
 @media screen and (max-width:1920px){
-	.sc_obj{border:1px solid red;}
 	.sc_img{width:100%;}
 
 	.wrap{width:100%;background-size: 100%;}

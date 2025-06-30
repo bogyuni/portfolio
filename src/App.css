@@ -1,9 +1,8 @@
 .main {
-	height: 100%;
   max-width: 1280px;
+	min-height: 100vh;
   margin: 0 auto;
   padding: 2rem;
-	border:1px solid #333;
 	color: #fff;
 }
 .main h1 {
@@ -11,4 +10,98 @@
 	margin-bottom: 1rem;
 	text-align: center;
 }
+.tab-nav {
+	display: flex;
+	justify-content: center;
+	margin-bottom: 2rem;
+}
+.tab-nav button {
+	background-color: #444;
+	color: #fff;
+	border: none;
+	border-radius: 4px;
+	padding: 0.5rem 1rem;
+	margin: 0 0.5rem;
+	cursor: pointer;
+	font-size: 1.2rem;
+	transition: background-color 0.3s ease;
+}
+.tab-nav button.active {
+	background-color: #1c86ee;
+}
+.year-section {
+	margin-bottom: 2rem;
+}
+.year-section h2 {
+	font-size: 2rem;
+	margin-bottom: 0.4rem;
+}
+.year-section li {
+	margin: 0 0 1rem;
+	padding: 1rem;
+	border: 1px solid #444;
+	border-radius: 4px;
+	background-color: #222;
+	display: flex;
+	justify-content: start;
+	gap: 1rem;
+}
+.year-section .img-con,
+.year-section .img-none {
+	width: 300px;
+	height: 220px;
+	border:1px solid #444;
+	border-radius: 4px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.year-section .img-con img {
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+}
+.year-section .details-con p {
+	position: relative;
+	padding-left: 1rem;
+	white-space: pre-line;
+}
+.year-section .details-con p::before {
+	content: '-';
+	position: absolute;
+	left: 0;
+	top: 0;
+}
+.year-section .tit-con {
+	color: #1e90ff;
+	text-decoration: none;
+	font-size: 1.2rem;
+	margin-bottom: 0.5rem;
+	display: block;
+}
+.year-section a span {
+	vertical-align: sub;
+}
+.year-section a:hover {
+	text-decoration: underline;
+}
 
+@media screen and (max-width: 768px) {
+	.main {
+		padding: 1rem;
+	}
+	.year-section li {
+		flex-direction: column;
+		align-items: center;
+	}
+	.year-section .img-con {
+		margin-bottom: 1rem;
+		width: 100%;
+		max-width: 300px;
+		height: 200px;
+	}
+	.year-section .details-con {
+		width: 100%;
+	}
+	
+}

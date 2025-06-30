@@ -1,0 +1,203 @@
+[
+	{
+		"year": "2025",
+		"projects": [
+			{
+				"title": "파르나스 호텔 - Grand Inter Continental 웹사이트 리뉴얼",
+				"description": "GIC 호텔 반응형 사이트 퍼블리싱"
+			},
+			{
+				"title": "파르나스 호텔 - Ninetree hotels 웹사이트 리뉴얼",
+				"description": "나인트리 호텔 허브, 지점 반응형 사이트 퍼블리싱"
+			}
+		]
+	},
+	{
+		"year": "2024",
+		"projects": [
+			{
+				"title": "현대카드 내부 프로젝트 Univers 운영",
+				"description": "B2B 서비스인 Universe 구축, 운영, Vue.js, React 기반의 프론트엔드 담당"
+			},
+			{
+				"title": "LX하우시스 운영",
+				"description": "내부에서 구축된 LX하우시스 운영 업무 담당",
+				"link": "https://www.lxhausys.co.kr/",
+				"image":"2024_lxh.jpg"
+			},
+			{
+				"title": "R-CMS 프론트엔트 구축",
+				"description": "백오피스 서비스 CMS를 기존 Java, thymeleaf 에서 VueJS로 마이그레이션하여 구축하며,\n 구성원들을 리딩하여 사내 역량 강화"
+			}
+		]
+	},
+	{
+		"year": "2023",
+		"projects": [
+			{
+				"title": "국립부산국악원 구축",
+				"description": "DB와 백엔드 없이, 데이터는 JSON으로 관리하는 사이트의 프론트 작업 담당",
+				"link": "https://bogyuni.github.io/FB_BKM/kr/",
+				"image": "2023_bkm.jpg"
+			},
+			{
+				"title": "데이즈온 쇼핑몰 리뉴얼",
+				"description": "데이즈온 쇼핑몰 스킨 리뉴얼과 세팅 작업",
+				"link": "https://days-on.co.kr/",
+				"image": "2023_days.jpg"
+			}
+		]
+	},
+	{
+		"year": "2022",
+		"projects": [
+			{
+				"title": "현대블루프라이즈 사이트 유지운영",
+				"description": "현대블루프라이즈의 신규 컨텐츠 제작과 PHP 기반의 백엔드 수정작업,\n 데이터 추가를 담당함 중문 사이트 신규 구축",
+				"link": "https://hyundaiblueprize.com/",
+				"image": "2022_hdbp.jpg"
+			},
+			{
+				"title": "낯선기획, 텔레파씨 사이트 유지보수",
+				"description": "아임웹 플랫폼 수정 작업과 파이어베이스를 활용 하여 사이트를 관리함"
+			},
+			{
+				"title": "니주르 쇼핑몰 리뉴얼",
+				"description": "니주르 쇼핑몰 스킨 리뉴얼과 세팅 작업",
+				"link": "https://knizure.com/",
+				"image": "2022_knizure.jpg"
+			},
+			{
+				"title": "아이아이리서치 쇼핑몰 구축",
+				"description": "워드프레스 기반의 사이트를 구축 하다가 고객님의 요구에 따라,\n 카페24 플랫폼으로 변경하여 스킨 작업 완료함"
+			},
+			{
+				"title": "케라셀 네일 쇼핑몰 리뉴얼",
+				"description": "케라셀 네일 쇼핑몰 스킨 리뉴얼과 세팅 작업",
+				"link": "https://kerasal.co.kr/",
+				"image": "2022_kerasal.jpg"
+			},
+			{
+				"title": "브루클린웍스 쇼핑몰 리뉴얼",
+				"description": "브루클린웍스 쇼핑몰 스킨 리뉴얼과 세팅 작업",
+				"link": "https://brooklynworks.co.kr/",
+				"image": "2022_brooklyn.jpg"
+
+			},
+			{
+				"title": "소담 쇼핑몰 신규 작업",
+				"description": "소담 쇼핑몰 스킨 리뉴얼과 세팅 작업",
+				"link": "https://sodammall.kr/"
+			},
+			{
+				"title": "아이돈워너셀 쇼핑몰 리뉴얼",
+				"description": "아이돈워너셀 쇼핑몰 스킨 리뉴얼과 세팅 작업",
+				"link": "https://idws.kr/"
+			}
+		]
+	},
+		{
+		"year": "2021",
+		"projects": [
+			{
+				"title": "인하공전 운영",
+				"description": "인하공전 혁신지원사업 온라인 성과전시회 유지 운영",
+				"link": "http://inhatc.iexpo.kr/",
+				"image": "2021_iht.jpg"
+			},
+			{
+				"title": "동아출판 - 두클래스 유지운영",
+				"description": "동아출판에서 운영하는 두클래스 웹사이트 유지 보수",
+				"link": "https://ele.douclass.com/"
+			},
+			{
+				"title": "동아출판 - 교과서 홍보사이트 제작",
+				"description": "교과서 선정을 위한 동아출판의 교과서 홍보사이트 PC, MO 제작",
+				"link": "https://textbook.douclass.com/pc/main.html"
+			},
+			{
+				"title": "카카오엔터테인먼트",
+				"description": "카카오엔터테인먼트 기업소개 웹 페이지 제작",
+				"link": "https://kakaoent.com/",
+				"image": "2021_kkoe.jpg"
+			}
+		]
+	},
+	{
+		"year": "2020",
+		"projects": [
+			{
+				"title": "한샘몰 리뉴얼",
+				"description": "한샘닷컴 사이트 리뉴얼 제작(모바일), 외주인력 관리 및 QA",
+				"link": "https://store.hanssem.com/",
+				"image": "2021_hanssem.jpg"
+			},
+			{
+				"title": "FLO 사이트 리뉴얼",
+				"description": "FLO 사이트 리뉴얼 구축"
+			},
+			{
+				"title": "기아 - 호주 오픈 2020",
+				"description": "기아에서 진행하는 호주오픈 홍보용 프로모션 사이트,",
+				"link": "https://bogyuni.github.io/portfolio/f_cn/kia_ao2020/index.html",
+				"image": "2020_kia.jpg"
+			}
+		]
+	},
+	{
+		"year": "2019",
+		"projects": [
+			{
+				"title": "삼성전자 무선사업부 - 웨어러블기기 상품 페이지",
+				"description": "삼성전자 닷컴에 등록하는 AEM 용 제작과,\n 삼성전자 글로벌에 등록하는 상품 홍보용 페이지로 각종 인터렉션과, WDC의 WAQA의 모든 검수 사항을 통과하면서 진행했던 프로젝트.",
+				"link": "https://bogyuni.github.io/portfolio/f_cn/galaxy-watch-active/index.html",
+				"image": "2019_samsung.jpg"
+			},
+			{
+				"title": "기아 글로벌 - 호주오픈 2019",
+				"description": "기아에서 진행하는 호주오픈 홍보용 프로모션 사이트,\n 풀페이지 구성. Fullpage.js 의 라이센스 문제로 플러그인 없이 동작구현.",
+				"link": "https://bogyuni.github.io/portfolio/f_cn/kia_ao2019/index.html"
+			}
+		]
+	},
+	{
+		"year": "2018",
+		"projects": [
+			{
+				"title": "삼성전자 WOWPD",
+				"description": "삼성 AEM 시스템 등록용 상품 PD 페이지 개발 \n 노트북9, 건조기 그랑데, 8K TV, QLED 모니터"
+			}
+		]
+	},
+	{
+		"year": "2017",
+		"projects": [
+			{
+				"title": "GGPoker Cashier",
+				"description": "온라인 포커 Cashier 시스템 개발 및 유지운영",
+				"image": "2017_gg.jpg"
+			},
+			{
+				"title": "GGPoker CRM, AMS",
+				"description": "운영관리 프로그램 CRM, AMS 개발 및 유지운영",
+				"image": "2017_gg.jpg"
+			}
+		]
+	},
+	{
+		"year": "2016",
+		"projects": [
+			{
+				"title": "헬로네이처 데스크톱 1, 2차 리뉴얼",
+				"description": "유기농 농수산물 유통몰 헬로네이처 데스크톱 리뉴얼",
+				"link": "https://bogyuni.github.io/portfolio/d_hn/web/map.htm",
+				"image": "2016_hnd.jpg"
+			},
+			{
+				"title": "헬로네이처 모바일 1, 2차 리뉴얼",
+				"description": "유기농 농수산물 유통몰 헬로네이처 모바일 리뉴얼",
+				"link": "https://bogyuni.github.io/portfolio/d_hn/mobile/map.html"
+			}
+		]
+	}
+]
